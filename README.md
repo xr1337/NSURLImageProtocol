@@ -36,10 +36,10 @@ HTML Content
 All your HTML content will need to be updated to support local image loading.
 Example:
 (before)
-<img src="http://www.test.com/image1.png"/>
+&lt;img src="http://www.test.com/image1.png"/&gt;
 
 (after)
-<img src="cpimg://image.png"/>
+&lt;img src="cpimg://image.png"/&gt;
 
 
 
