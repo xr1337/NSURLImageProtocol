@@ -35,6 +35,7 @@ HTML Content
 
 All your HTML content will need to be updated to support local image loading.
 Example:
+
 (before)
 &lt;img src="http://www.test.com/image1.png"/&gt;
 
